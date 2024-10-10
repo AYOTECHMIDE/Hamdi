@@ -1,0 +1,171 @@
+.first{
+    background-image: url(/solved\ maths.jpg);
+    display: flex;
+}
+.height{
+    background-color: rgba(0, 0, 0, 0.753);
+    height: 330px;
+    width: 250px;
+    margin-top: 120px;
+    border-radius: 15px;
+}
+.int{
+    display: flex;
+    gap: 30px;  
+    margin: auto;
+}
+.end{
+    color: white;
+    text-decoration: underline;
+    font-style: italic;
+    font-size: 20px;
+    margin-left: 20px;
+}
+ul, li{
+    color: white;
+    list-style-type: none;
+    font-style: italic;
+    margin-left: -5px;
+}
+select{
+    width: 200px;
+    border: none;
+    margin-left: 20px;
+    background-color: rgba(0, 0, 0, 0.856);
+    border: 2px solid grey;
+    height: 39px;
+    border-radius: 8px;
+}
+option{
+    color: white;
+}
+input[type=submit]{
+    margin-top: 10px;
+    margin-left: 20px;
+    width: 200px;
+    height: 39px;
+    text-align: left;
+    background-color: rgba(128, 128, 128, 0.699);
+    color: white;
+    border-radius: 8px;
+    border: none;
+    font-style: italic;
+}
+.width{
+    margin-top: 10px;
+}
+#aaa{
+   color: white;
+   text-decoration: none;
+   font-style: italic;
+}
+a{
+    margin-left: 150px;
+    background-color: darkgreen;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding: 8px;
+    float: inline-start;
+    margin-top: 30px;
+    border-radius: 7px;
+   
+}
+@media screen and (max-width: 600px) {
+    .int{
+        display: grid;
+        gap: 30px;  
+        margin: auto;
+    }
+}
+#ff{
+    background-color: #FF00FF;
+    width: 30px;
+    height: 20px;
+    padding: 7px;
+    text-align: center;
+    border-radius: 5px;
+    color: purple;
+    margin-left: 37px;
+}
+#www{
+    background-color: lime;
+    width: 30px;
+    height: 20px;
+    text-align: center;
+    border-radius: 5px;
+    margin-left: 20px;
+    padding: 7px;
+    color: green;
+}
+#jjj{
+    background-color: orange;
+    width: 30px;
+    height: 20px;
+    text-align: center;
+    border-radius: 5px;
+    margin-left: 20px;
+    padding: 7px;
+    color: blue; 
+}
+#jab{
+    background-color: yellow;
+    width: 30px;
+    height: 20px;
+    text-align: center;
+    border-radius: 5px;
+    margin-left: 37px;
+    padding: 7px;
+    color: yellowgreen; 
+    margin-top: 20px;  
+}
+#mar{
+    background-color: blue;
+    width: 30px;
+    height: 20px;
+    text-align: center;
+    border-radius: 5px;
+    margin-left: 20px;
+    padding: 7px;
+    color: darkblue;   
+}
+#hh{
+    background-color: pink;
+    width: 30px;
+    height: 20px;
+    text-align: center;
+    border-radius: 5px;
+    margin-left: 20px;
+    padding: 7px;
+    color: palevioletred;    
+}
+#abc{
+    background-color: lawngreen;
+    width: 30px;
+    height: 20px;
+    text-align: center;
+    border-radius: 5px;
+    margin-left: 37px;
+    padding: 7px;
+    color: black; 
+    margin-top: 20px;    
+}
+#ayo{
+    background-color: purple;
+    width: 30px;
+    height: 20px;
+    text-align: center;
+    border-radius: 5px;
+    margin-left: 20px;
+    padding: 7px;
+    color: green;    
+}
+#maaj{
+    background-color: red;
+    width: 30px;
+    height: 20px;
+    text-align: center;
+    border-radius: 5px;
+    margin-left: 20px;
+    padding: 7px;
+    color: pink;     
+}
